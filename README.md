@@ -1,14 +1,11 @@
-# sge-odoo
-
-[https://drive.google.com/file/d/1S48aZfGXiQl1e24Bi2MvlXFyJK9WtkN-/view](https://drive.google.com/file/d/1S48aZfGXiQl1e24Bi2MvlXFyJK9WtkN-/view)
-https://www.odoo.com/documentation/18.0/es_419/developer/reference/backend/module.html
-
-
----
-
 # Guía Completa: Despliegue de Odoo 18, Módulos y Control de Versiones (Git)
 
 Documentación integral del entorno de desarrollo para **Odoo 18** utilizando Docker, estructura de módulos personalizados y flujo de trabajo con GitHub.
+
+## Enlaces y Recursos de Referencia
+
+* [Material y Recursos del Proyecto (Google Drive)](https://drive.google.com/file/d/1S48aZfGXiQl1e24Bi2MvlXFyJK9WtkN-/view)
+* [Documentación Oficial de Odoo 18 - Módulos](https://www.odoo.com/documentation/18.0/es_419/developer/reference/backend/module.html)
 
 ---
 
