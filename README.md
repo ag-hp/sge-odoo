@@ -1,6 +1,7 @@
 # sge-odoo
 
 [https://drive.google.com/file/d/1S48aZfGXiQl1e24Bi2MvlXFyJK9WtkN-/view](https://drive.google.com/file/d/1S48aZfGXiQl1e24Bi2MvlXFyJK9WtkN-/view)
+https://www.odoo.com/documentation/18.0/es_419/developer/reference/backend/module.html
 
 ---
 
