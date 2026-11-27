@@ -38,6 +38,7 @@ sge-odoo/
     │   └── odoo.conf
     ├── crear.sh
     └── docker-compose.yml
+```
 
 ---
 
