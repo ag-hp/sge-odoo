@@ -9,6 +9,38 @@ Documentación integral del entorno de desarrollo para **Odoo 18** utilizando Do
 
 ---
 
+## Estructura del Proyecto
+
+```text
+sge-odoo/
+├── README.md
+├── commads.md
+└── odoo18/
+    ├── .vscode/
+    │   └── settings.json
+    ├── addons/
+    ├── docs/
+    ├── extra_addons/
+    │   └── Odoo_DAM/
+    │       └── 1ermodulo/
+    │           ├── __init__.py
+    │           ├── __manifest__.py
+    │           └── administrador_notas/
+    │               ├── __init__.py
+    │               ├── __manifest__.py
+    │               ├── models/
+    │               │   ├── __init__.py
+    │               │   ├── __manifest__.py
+    │               │   └── grades_course.py
+    │               ├── security/
+    │               └── views/
+    ├── odoo/
+    │   └── odoo.conf
+    ├── crear.sh
+    └── docker-compose.yml
+
+---
+
 ## 1. Despliegue y Gestión de Odoo 18 con Docker
 
 ### Preparación del entorno y scripts
