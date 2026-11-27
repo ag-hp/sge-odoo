@@ -1,3 +1,5 @@
+[![Odoo ERP](https://img.shields.io/badge/Odoo_18-ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.uriroig.es/blog/odoo-erp-opiniones)
+
 # Guía Completa: Despliegue de Odoo 18, Módulos y Control de Versiones (Git)
 
 Documentación integral del entorno de desarrollo para **Odoo 18** utilizando Docker, estructura de módulos personalizados y flujo de trabajo con GitHub.
