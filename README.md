@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="odoo-erp-opiniones" src="https://github.com/user-attachments/assets/5e57609e-5d68-4e8c-a2ff-2cb29cc0a413" />
+
 [![Odoo ERP](https://img.shields.io/badge/Odoo_18-ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.uriroig.es/blog/odoo-erp-opiniones)
 
 # Guía Completa: Despliegue de Odoo 18, Módulos y Control de Versiones (Git)
